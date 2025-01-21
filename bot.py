@@ -1,8 +1,4 @@
-import telebot
-from telebot.types import ReplyKeyboardMarkup, KeyboardButton
-from telebot.types import WebAppInfo
-import json
-import os
+
 
 # إعداد البوت
 TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
